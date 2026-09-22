@@ -3,10 +3,10 @@
 Proyecto final · Fundamentos de Construcción de Software
 
 ## Integrantes
-- <Johan Hernández>
-- <Nixon Javier Barbosa Tirado>
-- <Edwin Alfonso Lopez Rodriguez>
-- <Brayan Estiven Sanchez Matoma>
+- Johan Hernández
+- Nixon Javier Barbosa Tirado
+- Edwin Alfonso Lopez Rodriguez
+- Brayan Estiven Sanchez Matoma
 
 ## Proyecto
 <Task.me - Aplicación  para la gestión académica de tareas.>
