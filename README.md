@@ -3,9 +3,9 @@
 Proyecto final · Fundamentos de Construcción de Software
 
 ## Integrantes
-- Johan Hernández
-- <Nixon Javier Barbosa Tirado >
-- < Edwin Alfonso Lopez Rodriguez >
+- <Johan Hernández>
+- <Nixon Javier Barbosa Tirado>
+- <Edwin Alfonso Lopez Rodriguez>
 - <Brayan Estiven Sanchez Matoma>
 
 ## Proyecto
