@@ -1,2 +1,17 @@
-# Proyecto-Integrador-Task.me
-objetivo desarrollar una herramienta de software orientada a estudiantes de educación secundaria o superior con el fin a facilitar la organización, administración y seguimiento de sus tareas académicas mediante alertas, notas, almacenamiento de detalles y un calendario integrado, con el propósito de optimizar su rendimiento académico.
+# Equipo <Equipo de desarollo Task.Me>
+
+Proyecto final · Fundamentos de Construcción de Software
+
+## Integrantes
+- Johan Hernández
+- <Nixon Javier Barbosa Tirado >
+- < Edwin Alfonso Lopez Rodriguez >
+- <Brayan Estiven Sanchez Matoma>
+
+## Proyecto
+<Task.me - Aplicación  para la gestión académica de tareas.>
+
+## Cómo trabajamos
+- Roles: docs/roles.md
+- Acuerdos: docs/acuerdos.md
+- Tareas: docs/backlog.md
